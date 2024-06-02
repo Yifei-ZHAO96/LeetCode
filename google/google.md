@@ -2,15 +2,19 @@
 a.orange {
     color: orange;
 }
+a.purple {
+    color: magenta;
+}
 </style>
+
 
 ## Useful links:
 
-- [Github Repo: LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions/tree/master)
-- [Problem Description: leetcode.ca](https://leetcode.ca/search/)
+- [Github Repo: LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions/tree/master){:, .purple}
+- [Problem Description: leetcode.ca](https://leetcode.ca/search/){:, .purple}
 
 
-## Top frequent problems
+## Top Frequent Problems
 1. [818. Race Car](https://leetcode.com/problems/race-car/), [Solution](./818.%20Race%20Car.py){:, .orange}
 2. [2158. Amount of New Area Painted Each Day](https://leetcode.ca/), [Solution](./2158.%20Amount%20of%20New%20Area%20Painted%20Each%20Day.py2021-10-27-2158-Amount-of-New-Area-Painted-Each-Day/){:, .orange}
 3. [359. Logger Rate Limiter](https://leetcode.com/discuss/interview-question/340230/google-onsite-implement-logger/), [Solution](./359.%20Logger%20Rate%20Limiter.py){:, .orange}
