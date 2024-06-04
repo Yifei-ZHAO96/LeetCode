@@ -23,10 +23,10 @@ a.purple {
 6. [715. Range Module](https://leetcode.com/problems/range-module/), [Solution](./715.%20Range%20Module.py){:. .orange}
 7. [2034. Stock Price Fluctuation](https://leetcode.com/problems/stock-price-fluctuation/), [Solution](./2034.%20Stock%20Price%20Fluctuation.py){:, .orange}
 8. [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/), [Solution](./2402.%20Meeting%20Rooms%20III.py){:, .orange}
-9. [1610. Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/), [Solution]
-10. [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/), [Solution]
-11. [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/), [Solution]
-12. [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/), [Solution]
+9. [1610. Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/), [Solution](./1610.%20Maximum%20Number%20of%20Visible%20Points.py){:, .orange}
+10. [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/), [Solution](./2458.%20Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries.py){:, .orange}
+11. [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/), [Solution](./729.%20My%20Calendar%20I.py){:, .orange}
+12. [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/), [Solution](./1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.PY){:, .orange}
 13. [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/), [Solution]
 14. [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/), [Solution]
 15. [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/), [Solution]
