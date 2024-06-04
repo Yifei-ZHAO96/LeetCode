@@ -27,7 +27,7 @@ a.purple {
 10. [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/), [Solution](./2458.%20Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries.py){:, .orange}
 11. [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/), [Solution](./729.%20My%20Calendar%20I.py){:, .orange}
 12. [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/), [Solution](./1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.PY){:, .orange}
-13. [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/), [Solution]
+13. [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/), [Solution](./2101.%20Detonate%20the%20Maximum%20Bombs.PY){:, .orange}
 14. [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/), [Solution]
 15. [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/), [Solution]
 16. [2416. Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/), [Solution]
