@@ -7,6 +7,9 @@ a.purple {
 }
 </style>
 
+![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
+![Progress](https://img.shields.io/badge/progress-13%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
