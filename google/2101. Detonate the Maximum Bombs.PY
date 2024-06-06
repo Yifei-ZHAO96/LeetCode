@@ -17,7 +17,7 @@ class Solution:
         res = 0
         # O(V)
         for i in range(len(bombs)):
-            q = deque([i])
+            q = collections.deque([i])
             seen = {i}
 
             while q:

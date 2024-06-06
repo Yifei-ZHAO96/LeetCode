@@ -27,10 +27,14 @@ class UnionFind:
             self.parent[q_root] = p_root
             self.size[p_root] += self.size[q_root]
 
-        else:
+        elif self.size[p_root] < self.size[q_root]:
             self.parent[p_root] = q_root
             self.size[q_root] += self.size[p_root]
-        
+
+        else:
+            self.parent[p_root] = q_root
+            self.size[q_root] += 1
+
         self.count -= 1
 
     def connected(self, p, q):
@@ -56,8 +60,7 @@ class Solution:
                 return time
         
         return -1
-        
-        
+
 
 solution = Solution()
 logs = [[0,2,0],[1,0,1],[3,0,3],[4,1,2],[7,3,1]]

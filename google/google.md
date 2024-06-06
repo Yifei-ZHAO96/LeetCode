@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-19%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-21%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -37,8 +37,8 @@ a.purple {
 17. [2018. Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/), [Solution](./2018.%20Check%20if%20Word%20Can%20Be%20Placed%20In%20Crossword.py){:, .orange}
 18. [1136. Parallel Courses](https://leetcode.ca/2019-01-09-1136-Parallel-Courses/), [Solution](./1136.%20Parallel%20Courses.py){:, .orange}
 19. [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/), [Solution](./2115.%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies.py){:, .orange}
-20. [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/), [Solution]
-21. [2421. Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/), [Solution]
+20. [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/), [Solution](./1048.%20Longest%20String%20Chain.py){:, .orange}
+21. [2421. Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/), [Solution](./2421.%20Number%20of%20Good%20Paths.py){:, .orange}
 22. [2162. Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/), [Solution]
 23. [843. Guess the Word](https://leetcode.com/problems/guess-the-word/)
 24. [2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/), [Solution]
