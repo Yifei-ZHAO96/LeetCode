@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-13%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-19%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -19,7 +19,7 @@ a.purple {
 
 ## Top Frequent Problems
 1. [818. Race Car](https://leetcode.com/problems/race-car/), [Solution](./818.%20Race%20Car.py){:, .orange}
-2. [2158. Amount of New Area Painted Each Day](https://leetcode.ca/), [Solution](./2158.%20Amount%20of%20New%20Area%20Painted%20Each%20Day.py2021-10-27-2158-Amount-of-New-Area-Painted-Each-Day/){:, .orange}
+2. [2158. Amount of New Area Painted Each Day](https://leetcode.ca/2021-10-27-2158-Amount-of-New-Area-Painted-Each-Day/), [Solution](./2158.%20Amount%20of%20New%20Area%20Painted%20Each%20Day.py){:, .orange}
 3. [359. Logger Rate Limiter](https://leetcode.com/discuss/interview-question/340230/google-onsite-implement-logger/), [Solution](./359.%20Logger%20Rate%20Limiter.py){:, .orange}
 4. [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/), [Solution](./366.%20Find%20Leaves%20of%20Binary%20Tree.py){:, .orange}
 5. [2096. Step-By-Step Directions From A Binary Tree Node To Another](https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/), [Solution](./2096.%20Step-By-Step%20Directions%20From%20A%20Binary%20Tree%20Node%20To%20Another.py){:, .orange}
@@ -29,14 +29,14 @@ a.purple {
 9. [1610. Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/), [Solution](./1610.%20Maximum%20Number%20of%20Visible%20Points.py){:, .orange}
 10. [2458. Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/), [Solution](./2458.%20Height%20of%20Binary%20Tree%20After%20Subtree%20Removal%20Queries.py){:, .orange}
 11. [729. My Calendar I](https://leetcode.com/problems/my-calendar-i/), [Solution](./729.%20My%20Calendar%20I.py){:, .orange}
-12. [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/), [Solution](./1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.PY){:, .orange}
-13. [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/), [Solution](./2101.%20Detonate%20the%20Maximum%20Bombs.PY){:, .orange}
-14. [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/), [Solution]
-15. [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/), [Solution]
-16. [2416. Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/), [Solution]
-17. [2018. Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/), [Solution]
-18. [1136. Parallel Courses](https://leetcode.com/problems/parallel-courses/)
-19. [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/), [Solution]
+12. [1293. Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/), [Solution](./1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.py){:, .orange}
+13. [2101. Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs/), [Solution](./2101.%20Detonate%20the%20Maximum%20Bombs.py){:, .orange}
+14. [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.ca/2018-12-05-1101-The-Earliest-Moment-When-Everyone-Become-Friends/), [Solution](./1101.%20The%20Earliest%20Moment%20When%20Everyone%20Become%20Friends.py){:, .orange}
+15. [1110. Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/), [Solution](./1110.%20Delete%20Nodes%20And%20Return%20Forest.py){:, .orange}
+16. [2416. Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/), [Solution](./2416.%20Sum%20of%20Prefix%20Scores%20of%20Strings.py){:, .orange}
+17. [2018. Check if Word Can Be Placed In Crossword](https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/), [Solution](./2018.%20Check%20if%20Word%20Can%20Be%20Placed%20In%20Crossword.py){:, .orange}
+18. [1136. Parallel Courses](https://leetcode.ca/2019-01-09-1136-Parallel-Courses/), [Solution](./1136.%20Parallel%20Courses.py){:, .orange}
+19. [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/), [Solution](./2115.%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies.py){:, .orange}
 20. [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/), [Solution]
 21. [2421. Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/), [Solution]
 22. [2162. Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/), [Solution]
