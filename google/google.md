@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-21%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-24%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -39,10 +39,10 @@ a.purple {
 19. [2115. Find All Possible Recipes from Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/), [Solution](./2115.%20Find%20All%20Possible%20Recipes%20from%20Given%20Supplies.py){:, .orange}
 20. [1048. Longest String Chain](https://leetcode.com/problems/longest-string-chain/), [Solution](./1048.%20Longest%20String%20Chain.py){:, .orange}
 21. [2421. Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/), [Solution](./2421.%20Number%20of%20Good%20Paths.py){:, .orange}
-22. [2162. Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/), [Solution]
-23. [843. Guess the Word](https://leetcode.com/problems/guess-the-word/)
-24. [2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/), [Solution]
-25. [2013. Detect Squares](https://leetcode.com/problems/detect-squares/)
+22. [2162. Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/), [Solution](./2162.%20Minimum%20Cost%20to%20Set%20Cooking%20Time.py){:, .orange}
+23. [843. Guess the Word](https://leetcode.com/problems/guess-the-word/), [Solution](./843.%20Guess%20the%20Word.py){:, .orange}
+24. [2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/), [Solution](./2713.%20Maximum%20Strictly%20Increasing%20Cells%20in%20a%20Matrix.py){:, .orange}
+25. [2013. Detect Squares](https://leetcode.com/problems/detect-squares/), [Solution]
 26. [562. Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/), [Solution]
 27. [975. Odd Even Jump](https://leetcode.com/problems/odd-even-jump/), [Solution]
 28. [2172. Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/), [Solution]
@@ -53,8 +53,8 @@ a.purple {
 33. [418. Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/), [Solution]
 34. [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/), [Solution]
 35. [900. RLE Iterator](https://leetcode.com/problems/rle-iterator/), [Solution]
-36. [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)
-37. [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/)
+36. [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/), [Solution]
+37. [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/), [Solution]
 38. [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/), [Solution]
 39. [1102. Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/), [Solution]
 40. [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/), [Solution]
