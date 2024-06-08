@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-24%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-29%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -42,15 +42,15 @@ a.purple {
 22. [2162. Minimum Cost to Set Cooking Time](https://leetcode.com/problems/minimum-cost-to-set-cooking-time/), [Solution](./2162.%20Minimum%20Cost%20to%20Set%20Cooking%20Time.py){:, .orange}
 23. [843. Guess the Word](https://leetcode.com/problems/guess-the-word/), [Solution](./843.%20Guess%20the%20Word.py){:, .orange}
 24. [2713. Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/), [Solution](./2713.%20Maximum%20Strictly%20Increasing%20Cells%20in%20a%20Matrix.py){:, .orange}
-25. [2013. Detect Squares](https://leetcode.com/problems/detect-squares/), [Solution]
-26. [562. Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/), [Solution]
+25. [2013. Detect Squares](https://leetcode.com/problems/detect-squares/), [Solution](./2013.%20Detect%20Squares.py){:, .orange}
+26. [562. Longest Line of Consecutive One in Matrix](https://leetcode.ca/2017-06-14-562-Longest-Line-of-Consecutive-One-in-Matrix/), [Solution](./562.%20Longest%20Line%20of%20Consecutive%20One%20in%20Matrix.py){:, .orange}
 27. [975. Odd Even Jump](https://leetcode.com/problems/odd-even-jump/), [Solution]
 28. [2172. Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/), [Solution]
 29. [1825. Finding MK Average](https://leetcode.com/problems/finding-mk-average/), [Solution]
-30. [1055. Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string/), [Solution]
-31. [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/), [Solution]
-32. [2128. Remove All Ones With Row and Column Flips](https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/), [Solution]
-33. [418. Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/), [Solution]
+30. [1055. Shortest Way to Form String](https://leetcode.ca/2018-10-20-1055-Shortest-Way-to-Form-String/), [Solution](./1055.%20Shortest%20Way%20to%20Form%20String.py){:, .orange}
+31. [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/), [Solution](./939.%20Minimum%20Area%20Rectangle.py){:, .orange}
+32. [2128. Remove All Ones With Row and Column Flips](https://leetcode.ca/2021-09-27-2128-Remove-All-Ones-With-Row-and-Column-Flips/), [Solution](./2128.%20Remove%20All%20Ones%20With%20Row%20and%20Column%20Flips.py){:, .orange}
+33. [418. Sentence Screen Fitting](https://leetcode.ca/2017-01-21-418-Sentence-Screen-Fitting/), [Solution]
 34. [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/), [Solution]
 35. [900. RLE Iterator](https://leetcode.com/problems/rle-iterator/), [Solution]
 36. [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/), [Solution]
