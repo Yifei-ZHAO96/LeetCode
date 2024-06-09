@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-29%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-32%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -50,9 +50,9 @@ a.purple {
 30. [1055. Shortest Way to Form String](https://leetcode.ca/2018-10-20-1055-Shortest-Way-to-Form-String/), [Solution](./1055.%20Shortest%20Way%20to%20Form%20String.py){:, .orange}
 31. [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/), [Solution](./939.%20Minimum%20Area%20Rectangle.py){:, .orange}
 32. [2128. Remove All Ones With Row and Column Flips](https://leetcode.ca/2021-09-27-2128-Remove-All-Ones-With-Row-and-Column-Flips/), [Solution](./2128.%20Remove%20All%20Ones%20With%20Row%20and%20Column%20Flips.py){:, .orange}
-33. [418. Sentence Screen Fitting](https://leetcode.ca/2017-01-21-418-Sentence-Screen-Fitting/), [Solution]
-34. [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/), [Solution]
-35. [900. RLE Iterator](https://leetcode.com/problems/rle-iterator/), [Solution]
+33. [418. Sentence Screen Fitting](https://leetcode.ca/2017-01-21-418-Sentence-Screen-Fitting/), [Solution](./418.%20Sentence%20Screen%20Fitting.py){:, .orange}
+34. [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/), [Solution](./2842.%20Count%20K-Subsequences%20of%20a%20String%20With%20Maximum%20Beauty.py){:, .orange}
+35. [900. RLE Iterator](https://leetcode.com/problems/rle-iterator/), [Solution](./900.%20RLE%20Iterator.py){:, .orange}
 36. [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/), [Solution]
 37. [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/), [Solution]
 38. [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/), [Solution]
