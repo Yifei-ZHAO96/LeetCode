@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-32%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-38%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -53,12 +53,12 @@ a.purple {
 33. [418. Sentence Screen Fitting](https://leetcode.ca/2017-01-21-418-Sentence-Screen-Fitting/), [Solution](./418.%20Sentence%20Screen%20Fitting.py){:, .orange}
 34. [2842. Count K-Subsequences of a String With Maximum Beauty](https://leetcode.com/problems/count-k-subsequences-of-a-string-with-maximum-beauty/), [Solution](./2842.%20Count%20K-Subsequences%20of%20a%20String%20With%20Maximum%20Beauty.py){:, .orange}
 35. [900. RLE Iterator](https://leetcode.com/problems/rle-iterator/), [Solution](./900.%20RLE%20Iterator.py){:, .orange}
-36. [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/), [Solution]
-37. [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/), [Solution]
-38. [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/), [Solution]
-39. [1102. Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/), [Solution]
-40. [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/), [Solution]
-41. [759. Employee Free Time](https://leetcode.com/problems/employee-free-time/), [Solution]
+36. [2178. Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/), [Solution](./2178.%20Maximum%20Split%20of%20Positive%20Even%20Integers.py){:, .orange}
+37. [833. Find And Replace in String](https://leetcode.com/problems/find-and-replace-in-string/), [Solution](./833.%20Find%20And%20Replace%20in%20String.py){:, .orange}
+38. [253. Meeting Rooms II](https://leetcode.ca/2016-08-09-253-Meeting-Rooms-II/), [Solution](./253.%20Meeting%20Rooms%20II.py){:, .orange}
+39. [1102. Path With Maximum Minimum Value](https://leetcode.ca/2018-12-06-1102-Path-With-Maximum-Minimum-Value/), [Solution](./1102.%20Path%20With%20Maximum%20Minimum%20Value.py){:, .orange}
+40. [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/), [Solution](./1146.%20Snapshot%20Array.py){:, .orange}
+41. [759. Employee Free Time](https://leetcode.ca/2017-12-28-759-Employee-Free-Time/), [Solution](./759.%20Employee%20Free%20Time.py){:, .orange}
 42. [1387. Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/), [Solution]
 43. [777. Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/), [Solution]
 44. [489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/), [Solution]
