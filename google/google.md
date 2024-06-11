@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-38%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-44%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -59,12 +59,12 @@ a.purple {
 39. [1102. Path With Maximum Minimum Value](https://leetcode.ca/2018-12-06-1102-Path-With-Maximum-Minimum-Value/), [Solution](./1102.%20Path%20With%20Maximum%20Minimum%20Value.py){:, .orange}
 40. [1146. Snapshot Array](https://leetcode.com/problems/snapshot-array/), [Solution](./1146.%20Snapshot%20Array.py){:, .orange}
 41. [759. Employee Free Time](https://leetcode.ca/2017-12-28-759-Employee-Free-Time/), [Solution](./759.%20Employee%20Free%20Time.py){:, .orange}
-42. [1387. Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/), [Solution]
-43. [777. Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/), [Solution]
-44. [489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/), [Solution]
-45. [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/), [Solution]
-46. [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/), [Solution]
-47. [2188. Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/), [Solution]
+42. [1387. Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/), [Solution](./1387.%20Sort%20Integers%20by%20The%20Power%20Value.py){:, .orange}
+43. [777. Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/), [Solution](./777.%20Swap%20Adjacent%20in%20LR%20String.py){:, .orange}
+44. [489. Robot Room Cleaner](https://leetcode.ca/2017-04-02-489-Robot-Room-Cleaner/), [Solution](./489.%20Robot%20Room%20Cleaner.py){:, .orange}
+45. [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/), [Solution](./1937.%20Maximum%20Number%20of%20Points%20with%20Cost.py){:, .orange}
+46. [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/), [Solution](./1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.py){:, .orange}
+47. [2188. Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/), [Solution](./2188.%20Minimum%20Time%20to%20Finish%20the%20Race.py){:, .orange}
 48. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/), [Solution]
 49. [552. Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/), [Solution]
 50. [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/), [Solution]
