@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-44%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-48%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -65,11 +65,11 @@ a.purple {
 45. [1937. Maximum Number of Points with Cost](https://leetcode.com/problems/maximum-number-of-points-with-cost/), [Solution](./1937.%20Maximum%20Number%20of%20Points%20with%20Cost.py){:, .orange}
 46. [1996. The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/), [Solution](./1996.%20The%20Number%20of%20Weak%20Characters%20in%20the%20Game.py){:, .orange}
 47. [2188. Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/), [Solution](./2188.%20Minimum%20Time%20to%20Finish%20the%20Race.py){:, .orange}
-48. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/), [Solution]
-49. [552. Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/), [Solution]
-50. [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/), [Solution]
-51. [68. Text Justification](https://leetcode.com/problems/text-justification/), [Solution]
-52. [1506. Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/), [Solution]
+48. [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/), [Solution](./528.%20Random%20Pick%20with%20Weight.py){:, .orange}
+49. [552. Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii/), [Solution](./552.%20Student%20Attendance%20Record%20II.py){:, .orange}
+50. [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/), [Solution](./1105.%20Filling%20Bookcase%20Shelves.py){:, .orange}
+51. [68. Text Justification](https://leetcode.com/problems/text-justification/), [Solution](./68.%20Text%20Justification.py){:, .orange}
+52. [1506. Find Root of N-Ary Tree](https://leetcode.ca/2020-01-14-1506-Find-Root-of-N-Ary-Tree/), [Solution]
 53. [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/), [Solution]
 54. [1263. Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/), [Solution]
 55. [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/), [Solution]
