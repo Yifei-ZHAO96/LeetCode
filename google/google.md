@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-52%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-53%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -73,7 +73,7 @@ a.purple {
 53. [539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/), [Solution](./539.%20Minimum%20Time%20Difference.py){:, .orange}
 54. [1263. Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/), [Solution](./1263.%20Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.py){:, .orange}
 55. [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/), [Solution](./329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.py){:, .orange}
-56. [2437. Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/), [Solution]
+56. [2437. Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/), [Solution](./2437.%20Number%20of%20Valid%20Clock%20Times.py){:, .orange}
 57. [2700. Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/), [Solution]
 58. [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/), [Solution]
 59. [2271. Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/), [Solution]
