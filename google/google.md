@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-53%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-56%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -74,9 +74,9 @@ a.purple {
 54. [1263. Minimum Moves to Move a Box to Their Target Location](https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/), [Solution](./1263.%20Minimum%20Moves%20to%20Move%20a%20Box%20to%20Their%20Target%20Location.py){:, .orange}
 55. [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/), [Solution](./329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.py){:, .orange}
 56. [2437. Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/), [Solution](./2437.%20Number%20of%20Valid%20Clock%20Times.py){:, .orange}
-57. [2700. Differences Between Two Objects](https://leetcode.com/problems/differences-between-two-objects/), [Solution]
-58. [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/), [Solution]
-59. [2271. Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/), [Solution]
+57. [2700. Differences Between Two Objects](https://leetcode.ca/2023-04-22-2700-Differences-Between-Two-Objects/), [Solution](./2700.%20Differences%20Between%20Two%20Objects.py){:, .orange}
+58. [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/), [Solution](./934.%20Shortest%20Bridge.py){:, .orange}
+59. [2271. Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/), [Solution](./2271.%20Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet.py){:, .orange}
 60. [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/), [Solution]
 61. [1632. Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/), [Solution]
 62. [1. Two Sum](https://leetcode.com/problems/two-sum/), [Solution]
