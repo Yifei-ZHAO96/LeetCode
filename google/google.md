@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-56%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-62%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -77,12 +77,12 @@ a.purple {
 57. [2700. Differences Between Two Objects](https://leetcode.ca/2023-04-22-2700-Differences-Between-Two-Objects/), [Solution](./2700.%20Differences%20Between%20Two%20Objects.py){:, .orange}
 58. [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/), [Solution](./934.%20Shortest%20Bridge.py){:, .orange}
 59. [2271. Maximum White Tiles Covered by a Carpet](https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet/), [Solution](./2271.%20Maximum%20White%20Tiles%20Covered%20by%20a%20Carpet.py){:, .orange}
-60. [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/), [Solution]
-61. [1632. Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/), [Solution]
-62. [1. Two Sum](https://leetcode.com/problems/two-sum/), [Solution]
-63. [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/), [Solution]
-64. [2135. Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/), [Solution]
-65. [2345. Finding the Number of Visible Mountains](https://leetcode.com/problems/finding-the-number-of-visible-mountains/), [Solution]
+60. [1834. Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/), [Solution](./1834.%20Single-Threaded%20CPU.py){:, .orange}
+61. [1632. Rank Transform of a Matrix](https://leetcode.com/problems/rank-transform-of-a-matrix/), [Solution](./1632.%20Rank%20Transform%20of%20a%20Matrix.py){:, .orange}
+62. [1. Two Sum](https://leetcode.com/problems/two-sum/), [Solution](./1.%20Two%20Sum.py){:, .orange}
+63. [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/), [Solution](./458.%20Poor%20Pigs.py){:, .orange}
+64. [2135. Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/), [Solution](./2135.%20Count%20Words%20Obtained%20After%20Adding%20a%20Letter.py){:, .orange}
+65. [2345. Finding the Number of Visible Mountains](https://leetcode.ca/2022-05-02-2345-Finding-the-Number-of-Visible-Mountains/), [Solution](./2345.%20Finding%20the%20Number%20of%20Visible%20Mountains.py){:, .orange}
 66. [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/), [Solution]
 67. [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/), [Solution]
 68. [2088. Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/), [Solution]
