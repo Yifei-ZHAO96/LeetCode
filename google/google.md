@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-70%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-74%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -93,9 +93,9 @@ a.purple {
 73. [1554. Strings Differ by One Character](https://leetcode.ca/2020-03-02-1554-Strings-Differ-by-One-Character/), [Solution](./1554.%20Strings%20Differ%20by%20One%20Character.py){:, .orange}
 74. [2332. The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/), [Solution](./2332.%20The%20Latest%20Time%20to%20Catch%20a%20Bus.py){:, .orange}
 75. [642. Design Search Autocomplete System](https://leetcode.ca/2017-09-02-642-Design-Search-Autocomplete-System/), [Solution](./642.%20Design%20Search%20Autocomplete%20System.py){:, .orange}
-76. [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/), [Solution]
-77. [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/), [Solution]
-78. [593. Valid Square](https://leetcode.com/problems/valid-square/), [Solution]
+76. [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/), [Solution](./778.%20Swim%20in%20Rising%20Water.py){:, .orange}
+77. [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/), [Solution](./792.%20Number%20of%20Matching%20Subsequences.py){:, .orange}
+78. [593. Valid Square](https://leetcode.com/problems/valid-square/), [Solution](./593.%20Valid%20Square.py){:, .orange}
 79. [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/), [Solution]
 80. [146. LRU Cache](https://leetcode.com/problems/lru-cache/), [Solution]
 81. [679. 24 Game](https://leetcode.com/problems/24-game/), [Solution]
