@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-62%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-70%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -83,16 +83,16 @@ a.purple {
 63. [458. Poor Pigs](https://leetcode.com/problems/poor-pigs/), [Solution](./458.%20Poor%20Pigs.py){:, .orange}
 64. [2135. Count Words Obtained After Adding a Letter](https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/), [Solution](./2135.%20Count%20Words%20Obtained%20After%20Adding%20a%20Letter.py){:, .orange}
 65. [2345. Finding the Number of Visible Mountains](https://leetcode.ca/2022-05-02-2345-Finding-the-Number-of-Visible-Mountains/), [Solution](./2345.%20Finding%20the%20Number%20of%20Visible%20Mountains.py){:, .orange}
-66. [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/), [Solution]
-67. [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/), [Solution]
+66. [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/), [Solution](./315.%20Count%20of%20Smaller%20Numbers%20After%20Self.py){:, .orange}
+67. [726. Number of Atoms](https://leetcode.com/problems/number-of-atoms/), [Solution](./726.%20Number%20of%20Atoms.py){:, .orange}
 68. [2088. Count Fertile Pyramids in a Land](https://leetcode.com/problems/count-fertile-pyramids-in-a-land/), [Solution]
-69. [394. Decode String](https://leetcode.com/problems/decode-string/), [Solution]
-70. [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/), [Solution]
-71. [1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/), [Solution]
-72. [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/), [Solution]
-73. [1554. Strings Differ by One Character](https://leetcode.com/problems/strings-differ-by-one-character/), [Solution]
-74. [2332. The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/), [Solution]
-75. [642. Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/), [Solution]
+69. [394. Decode String](https://leetcode.com/problems/decode-string/), [Solution](./394.%20Decode%20String.py){:, .orange}
+70. [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/), [Solution](./1254.%20Number%20of%20Closed%20Islands.py){:, .orange}
+71. [1606. Find Servers That Handled Most Number of Requests](https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/), [Solution](./1606.%20Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests.py){:, .orange}
+72. [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/), [Solution](./419.%20Battleships%20in%20a%20Board.py){:, .orange}
+73. [1554. Strings Differ by One Character](https://leetcode.ca/2020-03-02-1554-Strings-Differ-by-One-Character/), [Solution](./1554.%20Strings%20Differ%20by%20One%20Character.py){:, .orange}
+74. [2332. The Latest Time to Catch a Bus](https://leetcode.com/problems/the-latest-time-to-catch-a-bus/), [Solution](./2332.%20The%20Latest%20Time%20to%20Catch%20a%20Bus.py){:, .orange}
+75. [642. Design Search Autocomplete System](https://leetcode.ca/2017-09-02-642-Design-Search-Autocomplete-System/), [Solution](./642.%20Design%20Search%20Autocomplete%20System.py){:, .orange}
 76. [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/), [Solution]
 77. [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/), [Solution]
 78. [593. Valid Square](https://leetcode.com/problems/valid-square/), [Solution]
