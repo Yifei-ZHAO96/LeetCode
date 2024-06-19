@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-74%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-81%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -96,14 +96,14 @@ a.purple {
 76. [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/), [Solution](./778.%20Swim%20in%20Rising%20Water.py){:, .orange}
 77. [792. Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/), [Solution](./792.%20Number%20of%20Matching%20Subsequences.py){:, .orange}
 78. [593. Valid Square](https://leetcode.com/problems/valid-square/), [Solution](./593.%20Valid%20Square.py){:, .orange}
-79. [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/), [Solution]
-80. [146. LRU Cache](https://leetcode.com/problems/lru-cache/), [Solution]
-81. [679. 24 Game](https://leetcode.com/problems/24-game/), [Solution]
-82. [365. Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/), [Solution]
-83. [2266. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/), [Solution]
-84. [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/), [Solution]
-85. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/), [Solution]
-86. [2184. Number of Ways to Build Sturdy Brick Wall](https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/), [Solution]
+79. [2366. Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array/), [Solution](./2366.%20Minimum%20Replacements%20to%20Sort%20the%20Array.py){:, .orange}
+80. [146. LRU Cache](https://leetcode.com/problems/lru-cache/), [Solution](./146.%20LRU%20Cache.py){:, .orange}
+81. [679. 24 Game](https://leetcode.com/problems/24-game/), [Solution](./679.%2024%20Game.py){:, .orange}
+82. [365. Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/), [Solution](./365.%20Water%20and%20Jug%20Problem.py){:, .orange}
+83. [2266. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/), [Solution](./2265.%20Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.py){:, .orange}
+84. [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/), [Solution](./1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py){:, .orange}
+85. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/), [Solution](./200.%20Number%20of%20Islands.py){:, .orange}
+86. [2184. Number of Ways to Build Sturdy Brick Wall](https://leetcode.ca/2021-11-22-2184-Number-of-Ways-to-Build-Sturdy-Brick-Wall/), [Solution]
 87. [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/), [Solution]
 88. [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/), [Solution]
 89. [1756. Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/), [Solution]
