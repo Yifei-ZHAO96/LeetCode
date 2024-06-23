@@ -9,7 +9,7 @@ a.purple {
 
 ![Language](https://img.shields.io/badge/language-Python-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
-![Progress](https://img.shields.io/badge/progress-81%20%2F%20100-ff69b4.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-84%20%2F%20100-ff69b4.svg)&nbsp;
 
 ## Useful links:
 
@@ -104,9 +104,9 @@ a.purple {
 84. [1509. Minimum Difference Between Largest and Smallest Value in Three Moves](https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/), [Solution](./1509.%20Minimum%20Difference%20Between%20Largest%20and%20Smallest%20Value%20in%20Three%20Moves.py){:, .orange}
 85. [200. Number of Islands](https://leetcode.com/problems/number-of-islands/), [Solution](./200.%20Number%20of%20Islands.py){:, .orange}
 86. [2184. Number of Ways to Build Sturdy Brick Wall](https://leetcode.ca/2021-11-22-2184-Number-of-Ways-to-Build-Sturdy-Brick-Wall/), [Solution]
-87. [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/), [Solution]
-88. [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/), [Solution]
-89. [1756. Design Most Recently Used Queue](https://leetcode.com/problems/design-most-recently-used-queue/), [Solution]
+87. [1376. Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/), [Solution](./1376.%20Time%20Needed%20to%20Inform%20All%20Employees.py){:, .orange}
+88. [839. Similar String Groups](https://leetcode.com/problems/similar-string-groups/), [Solution](./839.%20Similar%20String%20Groups.py){:, .orange}
+89. [1756. Design Most Recently Used Queue](https://leetcode.ca/2020-09-20-1756-Design-Most-Recently-Used-Queue/), [Solution](./1756.%20Design%20Most%20Recently%20Used%20Queue.py){:, .orange}
 90. [2258. Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/), [Solution]
 91. [2311. Longest Binary Subsequence Less Than or Equal to K](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/), [Solution]
 92. [2007. Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array/), [Solution]
